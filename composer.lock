@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d414d7f2ab583793a81e6db611417021",
+    "content-hash": "dedf1007d1035c95f65ec51b16b3e3b9",
     "packages": [
         {
             "name": "arrilot/laravel-widgets",
@@ -3974,16 +3974,16 @@
         },
         {
             "name": "tcg/voyager",
-            "version": "1.x-dev",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/the-control-group/voyager.git",
-                "reference": "68e206a03a69de859bbcf473aba3b0d4b26a25f7"
+                "reference": "c6dad15f4eff4bad97a85488dcc93cbf795eb2f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/the-control-group/voyager/zipball/68e206a03a69de859bbcf473aba3b0d4b26a25f7",
-                "reference": "68e206a03a69de859bbcf473aba3b0d4b26a25f7",
+                "url": "https://api.github.com/repos/the-control-group/voyager/zipball/c6dad15f4eff4bad97a85488dcc93cbf795eb2f6",
+                "reference": "c6dad15f4eff4bad97a85488dcc93cbf795eb2f6",
                 "shasum": ""
             },
             "require": {
@@ -4035,7 +4035,7 @@
                 "laravel",
                 "panel"
             ],
-            "time": "2019-10-11T15:44:59+00:00"
+            "time": "2019-10-17T16:30:54+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
