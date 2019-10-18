@@ -4,8 +4,8 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class New_Hot extends Model
+
+class Category extends Model
 {
-    //
-    protected $table = 'news';
+    
 }
